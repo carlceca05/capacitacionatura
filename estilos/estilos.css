@@ -2,6 +2,16 @@
     text-decoration: none;
     color: gray;
 }
+.fondo{
+    background-image: url(../img/2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.gris{
+    background-color: #f0f0f0;
+}
+
 .modalmask {
     position: fixed;
     font-family: Arial, sans-serif;
