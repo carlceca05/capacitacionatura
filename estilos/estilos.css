@@ -8,6 +8,20 @@
     background-position: center;
     background-size: cover;
 }
+.img1{
+    background-image: url(../img/min1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.fondo1{
+    background-image: url(../img/marketing.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 .gris{
     background-color: #f0f0f0;
 }
