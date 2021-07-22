@@ -43,6 +43,18 @@
     background-position: center;
     background-size: cover;
 }
+.fondo3{
+    background-image: url(../img/f3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.fondo4{
+    background-image: url(../img/f4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 .gris{
     background-color: #f0f0f0;
 }
